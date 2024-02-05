@@ -4,10 +4,10 @@ Simple Flappy Birds game clone.
 
 ## Game Screenshots
 
-![Gameplay](screenshots/01)
+![Gameplay](screenshots/01.png)
 
 
-![Game Over](screenshots/02)
+![Game Over](screenshots/02.png)
 
 
 ## Installation
